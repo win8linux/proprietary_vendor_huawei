@@ -79,6 +79,11 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/mt2/proprietary/etc/firmware/venus.b04:system/etc/firmware/venus.b04 \
     vendor/huawei/mt2/proprietary/etc/firmware/venus.mbn:system/etc/firmware/venus.mbn \
     vendor/huawei/mt2/proprietary/etc/firmware/venus.mdt:system/etc/firmware/venus.mdt \
+    vendor/huawei/mt2/proprietary/etc/firmware/widevine.b00:system/etc/firmware/widevine.b00 \
+    vendor/huawei/mt2/proprietary/etc/firmware/widevine.b01:system/etc/firmware/widevine.b01 \
+    vendor/huawei/mt2/proprietary/etc/firmware/widevine.b02:system/etc/firmware/widevine.b02 \
+    vendor/huawei/mt2/proprietary/etc/firmware/widevine.b03:system/etc/firmware/widevine.b03 \
+    vendor/huawei/mt2/proprietary/etc/firmware/widevine.mdt:system/etc/firmware/widevine.mdt \
     vendor/huawei/mt2/proprietary/etc/ons.bin:system/etc/ons.bin \
     vendor/huawei/mt2/proprietary/etc/sound_param/mate2/Bluetooth_cal.acdb:system/etc/sound_param/mate2/Bluetooth_cal.acdb \
     vendor/huawei/mt2/proprietary/etc/sound_param/mate2/General_cal.acdb:system/etc/sound_param/mate2/General_cal.acdb \
