@@ -1,4 +1,4 @@
-# Copyright (C) 2016 The CyanogenMod Project
+# Copyright (C) 2017 The CyanogenMod Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -61,7 +61,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/msm8916-common/proprietary/framework/qcnvitems.jar:system/framework/qcnvitems.jar \
     vendor/huawei/msm8916-common/proprietary/framework/qcrilhook.jar:system/framework/qcrilhook.jar \
     vendor/huawei/msm8916-common/proprietary/lib/libchromatix_imx135_liveshot.so:system/lib/libchromatix_imx135_liveshot.so \
-    vendor/huawei/msm8916-common/proprietary/lib/libcutilz.so:system/lib/libcutilz.so \
     vendor/huawei/msm8916-common/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
     vendor/huawei/msm8916-common/proprietary/lib/libmm-qcamera.so:system/lib/libmm-qcamera.so \
     vendor/huawei/msm8916-common/proprietary/lib/liboeminfo.so:system/lib/liboeminfo.so \
