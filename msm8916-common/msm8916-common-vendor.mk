@@ -65,6 +65,7 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/msm8916-common/proprietary/lib/libmm-qcamera.so:system/lib/libmm-qcamera.so \
     vendor/huawei/msm8916-common/proprietary/lib/liboeminfo.so:system/lib/liboeminfo.so \
     vendor/huawei/msm8916-common/proprietary/lib/libqmi_nv_api.so:system/lib/libqmi_nv_api.so \
+    vendor/huawei/msm8916-common/proprietary/vendor/etc/pdc_G620s_L01.txt:system/vendor/etc/pdc_G620s_L01.txt \
     vendor/huawei/msm8916-common/proprietary/vendor/lib/libactuator_a3907_camcorder.so:system/vendor/lib/libactuator_a3907_camcorder.so \
     vendor/huawei/msm8916-common/proprietary/vendor/lib/libactuator_a3907_camera.so:system/vendor/lib/libactuator_a3907_camera.so \
     vendor/huawei/msm8916-common/proprietary/vendor/lib/libactuator_a3907.so:system/vendor/lib/libactuator_a3907.so \
