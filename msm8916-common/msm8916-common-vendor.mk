@@ -23,7 +23,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/msm8916-common/proprietary/bin/oeminfo_server:system/bin/oeminfo_server \
     vendor/huawei/msm8916-common/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/huawei/msm8916-common/proprietary/bin/radish:system/bin/radish \
-    vendor/huawei/msm8916-common/proprietary/bin/rfs_access:system/bin/rfs_access \
     vendor/huawei/msm8916-common/proprietary/bin/rmt_oeminfo:system/bin/rmt_oeminfo \
     vendor/huawei/msm8916-common/proprietary/bin/rmt_storage:system/bin/rmt_storage \
     vendor/huawei/msm8916-common/proprietary/etc/data/dsi_config.xml:system/etc/data/dsi_config.xml \
