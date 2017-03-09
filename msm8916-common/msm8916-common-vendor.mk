@@ -35,7 +35,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/msm8916-common/proprietary/etc/firmware/cpp_firmware_v1_1_6.fw:system/etc/firmware/cpp_firmware_v1_1_6.fw \
     vendor/huawei/msm8916-common/proprietary/etc/firmware/cpp_firmware_v1_2_0.fw:system/etc/firmware/cpp_firmware_v1_2_0.fw \
     vendor/huawei/msm8916-common/proprietary/etc/firmware/cpp_firmware_v1_4_0.fw:system/etc/firmware/cpp_firmware_v1_4_0.fw \
-    vendor/huawei/msm8916-common/proprietary/etc/firmware/fused_nvm_y635_cl00.bin:system/etc/firmware/fused_nvm_y635_cl00.bin \
     vendor/huawei/msm8916-common/proprietary/etc/firmware/g620S_junda_fw.img:system/etc/firmware/g620S_junda_fw.img \
     vendor/huawei/msm8916-common/proprietary/etc/firmware/g620S_ofilm_fw.img:system/etc/firmware/g620S_ofilm_fw.img \
     vendor/huawei/msm8916-common/proprietary/etc/firmware/g620S_truly_fw.img:system/etc/firmware/g620S_truly_fw.img \
@@ -51,10 +50,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/msm8916-common/proprietary/etc/firmware/ice40.bin:system/etc/firmware/ice40.bin \
     vendor/huawei/msm8916-common/proprietary/etc/firmware/leia_pfp_470.fw:system/etc/firmware/leia_pfp_470.fw \
     vendor/huawei/msm8916-common/proprietary/etc/firmware/leia_pm4_470.fw:system/etc/firmware/leia_pm4_470.fw \
-    vendor/huawei/msm8916-common/proprietary/etc/firmware/Signedrompatch_v20.bin:system/etc/firmware/Signedrompatch_v20.bin \
-    vendor/huawei/msm8916-common/proprietary/etc/firmware/Signedrompatch_v21.bin:system/etc/firmware/Signedrompatch_v21.bin \
-    vendor/huawei/msm8916-common/proprietary/etc/firmware/Signedrompatch_v24.bin:system/etc/firmware/Signedrompatch_v24.bin \
-    vendor/huawei/msm8916-common/proprietary/etc/firmware/Signedrompatch_v30.bin:system/etc/firmware/Signedrompatch_v30.bin \
     vendor/huawei/msm8916-common/proprietary/etc/ons.bin:system/etc/ons.bin \
     vendor/huawei/msm8916-common/proprietary/etc/permissions/qcnvitems.xml:system/etc/permissions/qcnvitems.xml \
     vendor/huawei/msm8916-common/proprietary/etc/permissions/qcrilhook.xml:system/etc/permissions/qcrilhook.xml \
